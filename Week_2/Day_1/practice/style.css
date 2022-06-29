@@ -1,0 +1,341 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+@font-face {
+    font-family: Roboto;
+    src: url("./font/Roboto/Roboto-Light.ttf")
+}
+
+.navbar {
+    height: 50px;
+    width: 520px;
+    margin-left: 50px;
+    margin-right: px;
+    background-color: rgb(193,191,193);
+    display: flex;
+}
+
+.navLeft{font-size: 20px;
+    font-weight: lighter;
+    font-family: Roboto;
+    position: relative;
+    top: 7px;
+    left: 15px;
+}
+
+.navMid{
+
+}
+
+.searchbar{
+    height: 19px;
+    width: 200px;
+    border: 2px solid black;
+    position: relative;
+    align-content: center;
+    top: 15px;
+    left: 60px;
+}
+
+.navRight{
+
+}
+
+.navRight button {
+    height: 21px;
+    width: 47px;
+    position: relative;
+    align-items: center;
+    top: -36px;
+    left: 500px;
+    color: white;
+    font-family: Roboto;
+    font-weight:;
+    font-size: 11px;
+    border-radius: 0%;
+    border:px;
+    border-color:black ;
+    background-color: rgb(34, 95, 222);
+    box-shadow: 2px 2px black;
+}
+
+
+
+.def1{
+    height: 145px;
+    width: 340px;
+    background-color: teal;
+    border: 3px black;
+    position:absolute;
+    left:50px
+}
+
+.def1Content {
+    height: 141px;
+    width: 336px;
+    background-color: white;
+    border: 3px solid black;
+    
+}
+
+.def1Content h2{
+    font-size: 30px;
+    font-weight: light;
+    position: relative;
+    top: 5px;
+    left: 10px;
+}
+
+.def1Content p1{
+    font-size: 16px;
+    position: relative;
+    top: 2px;
+    left: 25px;
+
+}
+
+.def1Content p2{
+    font-size: 13px;
+    position: relative;
+    top: 20px;
+    left: -28px;
+}
+
+.def1Content span{
+    position: relative;
+    left: 3px;
+    font-style: italic;
+}
+
+.def1Content p3{
+    font-size: 16px;
+    position: relative;
+    top: 2x;
+    left: 13px;
+
+}
+
+.def1Content a{
+    font-size: 16px;
+    color: rgb(64, 104, 157);
+    position: relative;
+    top: -3px;
+    left: 120px;
+}
+
+.def1Content p4{
+    font-size: 16px;
+    position: relative;
+    top: -3px;
+    left: 125px;
+}
+
+#ninjutsu{
+    font-size: 16px;
+    color: rgb(64, 104, 157);
+    position: relative;
+    top: -3px;
+    left: 130px;
+}
+
+.def1Content button {
+    height: 30px;
+    width: 77px;
+    position: relative;
+    align-items: center;
+    top: 45px;
+    left: -140px;
+    color: black;
+    font-family: Roboto;
+    font-weight: bolder;
+    font-size: 11px;
+    border-radius: 0%;
+    border:px;
+    border-color:black ;
+    background-color: rgb(255, 210, 84 );
+    box-shadow: 2px 3px black;
+}
+
+.def2{
+    height: 145px;
+    width: 340px;
+    background-color: teal;
+    border: 3px black;
+    position:absolute;
+    top: 160px;
+    left: 0px
+}
+
+.def2Content {
+    height: 141px;
+    width: 336px;
+    background-color: white;
+    border: 3px solid black;
+    
+}
+
+.def2Content h2{
+    font-size: 30px;
+    font-weight: light;
+    position: relative;
+    top: 5px;
+    left: 10px;
+}
+
+.def2Content p1{
+    font-size: 16px;
+    position: relative;
+    top: 2px;
+    left: 25px;
+
+}
+
+.def2Content p2{
+    font-size: 13px;
+    position: relative;
+    top: 20px;
+    left: -25px;
+}
+#ninjas{ 
+    font-style: italic;
+    position: relative;
+    top: 0px;
+    left: 3px;
+}
+
+.def2Content p3{
+    font-size: 16px;
+    position: relative;
+    top: 0px;
+    left: 11px;
+
+}
+
+.def2Content p4{
+    font-size: 16px;
+    position: relative;
+    top: px;
+    left: 16px;
+}
+
+.def2Content p5{
+    font-size: 16px;
+    position: relative;
+    top: -2px;
+    left: 118px;
+}
+
+.def2Content p6{
+    font-size: 16px;
+    position: relative;
+    top: -2px;
+    left: 121px;
+}
+
+.def2Content a{
+    font-size: 16px;
+    position: relative;
+    top: 0px;
+    left: 13px;
+    color: rgb(64, 104, 157);
+}
+
+#zen{
+    font-size: 16px;
+    position: relative;
+    top: -3px;
+    left: 124px;
+
+}
+
+.def2Content p7{
+    font-size: 16px;
+    position: relative;
+    top: -2px;
+    left: 124px;
+}
+
+.def2Content p8{
+    font-size: 16px;
+    position: relative;
+    top: 16px;
+    left: -65px;
+}
+
+.def2Content button {
+    height: 30px;
+    width: 77px;
+    position: relative;
+    align-items: center;
+    top: 45px;
+    left: -215px;
+    color: black;
+    font-family: Roboto;
+    font-weight: bolder;
+    font-size: 11px;
+    border-radius: 0%;
+    border:px;
+    border-color:black ;
+    background-color: rgb(255, 210, 84 );
+    box-shadow: 2px 3px black;
+}
+
+.def2Content p3{
+    font-size: ;
+
+}
+
+.defYou{
+    height: 115px;
+    width: 160px;
+    background-color: teal;
+    border: 3px black;
+    position:absolute;
+    top: -160px;
+    left: 360px;
+}
+
+.defYouContent {
+    height: 109px;
+    width: 154px;
+    background-color: white;
+    border: 3px solid black;
+    
+}
+
+.defYouContent p1{
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.defYouContent p2{
+    font-size: 20px;
+    font-weight: bold ;
+    position: relative;
+    top: 9px;
+    left: 10px
+}
+
+
+.defYouContent button {
+    height: 30px;
+    width: 135px;
+    position: relative;
+    align-items: center;
+    top: 20px;
+    left: 10px;
+    color: black;
+    font-family: Roboto;
+    font-weight: bolder;
+    font-size: 11px;
+    border-radius: 0%;
+    border:px;
+    border-color:black ;
+    background-color: rgb(130, 186, 106 );
+    box-shadow: 2px 3px black;
+}

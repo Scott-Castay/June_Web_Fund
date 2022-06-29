@@ -1,0 +1,389 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+@font-face {
+    font-family: Roboto;
+    src: url("./font/Roboto/Roboto-Light.ttf")
+}
+
+.navbar {
+    height: 50px;
+    width: 520px;
+    margin-left: 50px;
+    margin-right: px;
+    background-color: black;
+    display: flex;
+}
+
+.navLeft{
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: Roboto;
+    color: white;
+    position: relative;
+    top: 7px;
+    left: 15px;
+}
+
+
+.neil{
+    height: 110px;
+    width: 365px;
+    background-color: teal;
+    border: 3px black;
+    position:absolute;
+    top: 95px;
+    left: 200px;
+}
+
+.neilContent {
+    height: 110px;
+    width: 365px;
+    background-color: white;
+    border: 3px solid black;
+    
+}
+
+.neilContent h2{
+    font-size: 30px;
+    font-weight: light;
+    position: relative;
+    top: 5px;
+    left: 10px;
+}
+
+.neilContent p1{
+    font-size: 16px;
+    position: relative;
+    top: 2px;
+    left: 25px;
+
+}
+
+.def1Content p2{
+    font-size: 13px;
+    position: relative;
+    top: 20px;
+    left: -28px;
+}
+
+.neilContent span{
+    position: relative;
+    left: 3px;
+    font-style: italic;
+}
+
+.def1Content p3{
+    font-size: 16px;
+    position: relative;
+    top: 2x;
+    left: 13px;
+
+}
+
+.neilContent a{
+    font-size: 16px;
+    color: rgb(64, 104, 157);
+    position: relative;
+    top: -3px;
+    left: 120px;
+}
+
+.neilContent p4{
+    font-size: 16px;
+    position: relative;
+    top: -3px;
+    left: 125px;
+}
+
+#ninjutsu{
+    font-size: 16px;
+    color: rgb(64, 104, 157);
+    position: relative;
+    top: -3px;
+    left: 130px;
+}
+
+.neilContent button {
+    height: 30px;
+    width: 77px;
+    position: relative;
+    align-items: center;
+    top: 45px;
+    left: -140px;
+    color: black;
+    font-family: Roboto;
+    font-weight: bolder;
+    font-size: 11px;
+    border-radius: 0%;
+    border:px;
+    border-color:black ;
+    background-color: rgb(255, 210, 84 );
+    box-shadow: 2px 3px black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nicholeContent{
+    height: 110px;
+    width: 365px;
+    background-color: teal;
+    border: 3px black;
+    position:absolute;
+    top: 220px;
+    left:200px
+}
+
+.nicholeContent {
+    height: 110px;
+    width: 365px;
+    background-color: white;
+    border: 3px solid black;
+    
+}
+
+.nicholeContent h2{
+    font-size: 30px;
+    font-weight: light;
+    position: relative;
+    top: 5px;
+    left: 10px;
+}
+
+.nicholeContent p1{
+    font-size: 16px;
+    position: relative;
+    top: 2px;
+    left: 25px;
+
+}
+
+.nicholeContent p2{
+    font-size: 13px;
+    position: relative;
+    top: 20px;
+    left: -28px;
+}
+
+.nicholeContent span{
+    position: relative;
+    left: 3px;
+    font-style: italic;
+}
+
+.nicholeContent p3{
+    font-size: 16px;
+    position: relative;
+    top: 2x;
+    left: 13px;
+
+}
+
+.nicholeContent a{
+    font-size: 16px;
+    color: rgb(64, 104, 157);
+    position: relative;
+    top: -3px;
+    left: 120px;
+}
+
+.nicholeContent p4{
+    font-size: 16px;
+    position: relative;
+    top: -3px;
+    left: 125px;
+}
+
+#ninjutsu{
+    font-size: 16px;
+    color: rgb(64, 104, 157);
+    position: relative;
+    top: -3px;
+    left: 130px;
+}
+
+.nicholeContent button {
+    height: 30px;
+    width: 77px;
+    position: relative;
+    align-items: center;
+    top: 45px;
+    left: -140px;
+    color: black;
+    font-family: Roboto;
+    font-weight: bolder;
+    font-size: 11px;
+    border-radius: 0%;
+    border:px;
+    border-color:black ;
+    background-color: rgb(255, 210, 84 );
+    box-shadow: 2px 3px black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.jim{
+    height: 110px;
+    width: 365px;
+    background-color: teal;
+    border: 3px black;
+    position:absolute;
+    top:345px;
+    left:200px;
+}
+
+.jimContent {
+    height: 110px;
+    width: 365px;
+    background-color: white;
+    border: 3px solid black;
+    
+}
+
+.jimContent h2{
+    font-size: 30px;
+    font-weight: light;
+    position: relative;
+    top: 5px;
+    left: 10px;
+}
+
+.jimContent p1{
+    font-size: 16px;
+    position: relative;
+    top: 2px;
+    left: 25px;
+
+}
+
+.jimContent p2{
+    font-size: 13px;
+    position: relative;
+    top: 20px;
+    left: -28px;
+}
+
+.jimContent span{
+    position: relative;
+    left: 3px;
+    font-style: italic;
+}
+
+.jimContent p3{
+    font-size: 16px;
+    position: relative;
+    top: 2x;
+    left: 13px;
+
+}
+
+.jimContent a{
+    font-size: 16px;
+    color: rgb(64, 104, 157);
+    position: relative;
+    top: -3px;
+    left: 120px;
+}
+
+.jimContent p4{
+    font-size: 16px;
+    position: relative;
+    top: -3px;
+    left: 125px;
+}
+
+#ninjutsu{
+    font-size: 16px;
+    color: rgb(64, 104, 157);
+    position: relative;
+    top: -3px;
+    left: 130px;
+}
+
+.jimContent button {
+    height: 30px;
+    width: 77px;
+    position: relative;
+    align-items: center;
+    top: 45px;
+    left: -140px;
+    color: black;
+    font-family: Roboto;
+    font-weight: bolder;
+    font-size: 11px;
+    border-radius: 0%;
+    border:px;
+    border-color:black ;
+    background-color: rgb(255, 210, 84 );
+    box-shadow: 2px 3px black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.profile{
+    height: 210px;
+    width: 125px;
+    background-color: teal;
+    border: 3px black;
+    position:absolute;
+    top:95px;
+    left:50px;
+}
+
+.profile {
+    height: 210px;
+    width: 125px;
+    background-color: white;
+    border: 3px solid black;
+    
+}
+
+#proPic {
+    height: 75px;
+    width: 75px;
+    position: relative;
+    top: 20px;
+    left: 25px;
+}

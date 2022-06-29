@@ -1,0 +1,42 @@
+/* selecting by element*/
+
+*{margin: 1; padding: 1}
+
+h1 { 
+    color:white;
+    background-color: black;
+    font-size: 100px; text-align: left;
+}
+
+span {color:aqua}
+
+h2 {
+    color:white;
+    background-color:rebeccapurple;
+    font-size: 50px; text-align: center;
+    font-style: italic;
+}
+
+h3 {
+    color:black;
+    background-color: lightskyblue;
+    font-size: 50px;
+    font-weight:lighter;
+    font-family: serif ;
+    text-align: right;
+    text-decoration: underline;
+}
+
+p {
+    text-align: center;
+}
+
+/* We can select based on class and id */
+
+title {
+    color: rebeccapurple;
+    font-size: 50px;
+}
+
+/* id>class>element order of how things overide*/
+
